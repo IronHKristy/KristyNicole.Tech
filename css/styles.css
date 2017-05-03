@@ -894,6 +894,9 @@ section h3.section-subheading {
   float:right;
   color:#c7dcd0;
 }
+.github-link-small, .linkedin-link-small, .inbox-link-small {
+  color:#c7dcd0;
+}
 .github-link:hover, .linkedin-link:hover, .inbox-link:hover {
   color:#aacab8;
 }
